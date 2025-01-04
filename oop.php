@@ -62,7 +62,7 @@ class Member
     }
 }
 
-// Main program
+
 // Create books
 $book1 = new Book("The Great Gatsby", 4);
 $book2 = new Book("To Kill a Mockingbird", 2);
